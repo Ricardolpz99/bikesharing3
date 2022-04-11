@@ -50,13 +50,3 @@ To convince investors that a bike-sharing program in Des Moines is a solid busin
 
 The Tableau Story created about Citi Bike trip analysis is [available at this web address]( https://public.tableau.com/views/Module14ChallengeRicardo/Story1?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link)
 
-
-
-### The Software Used in this undertaking
-
-    * Jupyter Notebook
-    * Python v.3.8.5 through Conda 4.10.1 
-    * Tableau Public Desktop Edition (v.2021-2-0)
-    * Tableau Web Edition
-    * Pandas 
-    
